@@ -1,0 +1,4 @@
+deep-translator
+pyttsx3
+requests
+langdetect
