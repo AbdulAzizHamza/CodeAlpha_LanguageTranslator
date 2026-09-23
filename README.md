@@ -68,12 +68,3 @@ as a backup. If it still fails:
   generous free monthly quota) Cloud Translation API, which needs a
   Google Cloud account, billing enabled, and an API key - more setup,
   but not subject to the same shared, unofficial rate limits.
-
-## Submitting this for your CodeAlpha internship
-
-Based on the task PDF, when you're ready to submit:
-1. Create a GitHub repository named `CodeAlpha_LanguageTranslator` and
-   upload `translator_app.py`, `requirements.txt`, and this README.
-2. Record a short video showing the app running and post it on
-   LinkedIn, tagging @CodeAlpha and including your GitHub repo link.
-3. Submit through the submission form shared in your WhatsApp group.
